@@ -100,7 +100,7 @@ namespace TerraInvictaSprites
                 {
                     return true;
                 }
-
+                Debug.Log($"[Sprite Loader]: found additional sprite {asset}");
                 imageToAssign.sprite = additionalSprites[asset];
                 return false;
             }

@@ -1,0 +1,13 @@
+{
+	"Id" : "TerraInvictaSprites",
+	"DisplayName": "Terra Invicta Sprite Loader",
+	"title": "Terra Invicta Sprite Loader",
+	"author": "wchf",
+	"description": "Allows to load additional sprites (Requires Unity Mod Manager)",
+	"Version": "0.2.1",
+	"Requirements": [],
+	"ManagerVersion": "0.24.0.0",
+	"AssemblyName": "TerraInvictaSprites.dll",
+	"EntryMethod": "TerraInvictaSprites.SpriteLoader.Load",
+	"mod url": ""
+}

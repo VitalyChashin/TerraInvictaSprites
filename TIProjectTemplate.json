@@ -1,0 +1,58 @@
+[
+  {
+    "friendlyName": "Test Sprites",
+    "dataName": "Project_TestSprites",
+    "techCategory": "SocialScience",
+    "AI_techRole": "EarthPolitics",
+    "AI_criticalTech": null,
+    "AI_projectRole": "ExpandNation",
+    "researchCost": 20,
+    "prereqs": [
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "altPrereq0": "",
+    "requiredObjectiveNames": [
+      ""
+    ],
+    "altRequiredObjective0Name": "",
+    "requiredMilestone": "",
+    "effects": [
+      "",
+      "",
+      ""
+    ],
+    "oneTimeGlobally": false,
+    "repeatable": false,
+    "requiresNation": "",
+    "requiredControlPoint": [
+      "",
+      ""
+    ],
+    "factionPrereq": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "factionAvailableChance": 100,
+    "factionAlways": "",
+    "initialUnlockChance": 100,
+    "deltaUnlockChance": 0,
+    "maxUnlockChance": 100,
+    "orgGranted": "",
+    "resourcesGranted": [
+      {
+        "resource": "",
+        "value": null
+      }
+    ],
+    "iconResource": "Laurals",
+    "completedIllustrationPath": "Warhammer1"
+  }
+]
