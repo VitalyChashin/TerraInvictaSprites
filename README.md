@@ -4,7 +4,7 @@ icons and illustrations without building asset bundles in Unity.
 Usage:
 
 1. In your mod folder create a sub-folder "sprites"
-2. Copy the images you want to use into the foler
+2. Copy the images you want to use into the folder
 3. Create a JSON file with the sprites list:
   
 ```json
